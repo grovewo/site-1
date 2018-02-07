@@ -18,7 +18,7 @@ enableRobotsTXT = true
 [params]
   favicon = "favicon.ico"
   description = ""
-  facebook = ""
+  facebook = "http://www.facebook.com/junglejer/"
   twitter = ""
   instagram = ""
   youtube = ""
