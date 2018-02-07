@@ -1,13 +1,16 @@
 ---
 title: Contact
-description: We'd love to hear from you
+description: Information for establishing contact
 type: page
 menu:
   main: {}
 
 ---
 
+If you need help setting up a similar site using travisci and hugo, I may be able to help.
+Also, for anything else...
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
+You can reach me via email [jerjungle@gmail.com](mailto:jerjungle@gmail.com)
 
-{{< form-contact action="https://example.com"  >}}
+Less reliably, you may also try with [facebook](https://m.facebook.com/jerjungle).
+
