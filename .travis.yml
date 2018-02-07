@@ -13,8 +13,6 @@ script:
   - cd src
   - chmod +x ../bin/hugo
   - ../bin/hugo
-  - pwd
-  - ls -R -a
 
 # Deploy to GitHub pages
 deploy:
