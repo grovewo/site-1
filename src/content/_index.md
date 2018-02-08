@@ -1,5 +1,5 @@
 ---
-title: "Expressing my free will"
+title: "Expressing free will."
 featured_image: '/images/backdrop.jpg'
 description: "My blog and druble."
 ---
