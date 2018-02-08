@@ -1,9 +1,10 @@
 ---
 title: "Shabu Buffet"
-date: 2018-02-08T04:39:41Z
+description: "Good time at the Shabu Buffet"
+date: 2018-02-08T04:39:41
+featured_image: "/images/shabu-buffet.jpg"
+tags: [food]
 ---
-
-{{< figure src="/images/shabu-buffet.jpg" title="The delightful Shabu Buffet" >}}
 
 Today was the third time I've been to Shabu Buffet in Chiang Mai.
 The first time we found this place, it was 6 PM and there was a line of asian folk waiting to get in. Still, the turnaround was ok and we got in after about 20 minutes.
