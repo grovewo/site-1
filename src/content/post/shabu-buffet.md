@@ -1,9 +1,9 @@
 ---
-title: "Shabu Buffet"
-description: "Good time at the Shabu Buffet"
 date: 2018-02-08T04:39:41
+description: "Good time at the Shabu Buffet"
 featured_image: "/images/shabu-buffet.jpg"
 tags: [food]
+title: "Shabu Buffet"
 ---
 
 Today was the third time I've been to Shabu Buffet in Chiang Mai.
