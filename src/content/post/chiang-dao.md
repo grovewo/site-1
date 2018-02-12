@@ -11,7 +11,7 @@ The bus was a very hot tin box, though there were fans and it seemed the Thais h
 
 {{< figure src="/images/chiangdao/bus.jpg" title="Bus to Chiang Dao" >}}
 
-Arriving in Chiang Dao we are immediately greeted by taxi drivers that knew exactly what a white farang like me was in town for.
+Arriving in Chiang Dao we are immediately greeted by taxi drivers that knew exactly what a farang like me was in town for.
 The price is 150 baht per truck, so don't let them fool you into seperate trucks like they did with our group.
 
 20 minutes later we arrive at the festival. Immediate impressions were good, it seemed very homey, friendly and low-key. They raised the price to 200 baht per person, per day for this year.
@@ -42,10 +42,10 @@ Also enjoyed a piece of apple pie from them on our last day with our last coffee
 {{< figure src="/images/chiangdao/coffee.jpg" title="Coffee and Thai Tea" >}}
 
 There were many handmade goods available there and it was a delight to have our pick of gifts to bring home for friends and family.
-I much prefer genuine handmade products than the ubiquitous Thai themed trinkets. We bought a bamboo lamp, and some raw mustard flower honey from nepal.
+I much prefer genuine handmade products to the ubiquitous Thai themed trinkets. We bought a bamboo lamp, and some raw mustard flower honey from nepal.
 My favourite snack was the "Fried Sandwich". A slice of bread wrapped around a filling, breaded and deep fried. Mmmmm.
 
-{{< figure src="/images/chiangdao/journal.jpg" title="Journal and Greek Salad" >}}
+{{< figure src="/images/chiangdao/journal.jpg" title="Bullet Journal and Greek Salad" >}}
 
 I had a lovely time, it was very relaxing to get out of the city. There were all kinds of workshops going on and we participated in none of them.
 Some great live performances too like one we saw as we were walking past and had to stay to watch seemed like this Japanese guy was controlling this girl with his voice and hands
@@ -57,8 +57,8 @@ This is a relaxed festival that definately deserves your attention and you'll ha
 Some more photos:
 
 {{< figure src="/images/chiangdao/fried.jpg" title="Fried Sandwich" >}}
-{{< figure src="/images/chiangdao/lamp.jpg" title="Bamboo Lamp">}}
-{{< figure src="/images/chiangdao/beer.jpg" title="The bar" >}}
-{{< figure src="/images/chiangdao/river.jpg" title="Up River" >}}
-{{< figure src="/images/chiangdao/panorama.jpg" title="Pan-o-rama of camping" >}}
+{{< figure src="/images/chiangdao/lamp.jpg" >}}
+{{< figure src="/images/chiangdao/beer.jpg" >}}
+{{< figure src="/images/chiangdao/river.jpg" >}}
+{{< figure src="/images/chiangdao/panorama.jpg" title="Pan-o-rama" >}}
 
