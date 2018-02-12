@@ -1,6 +1,6 @@
 ---
 date: 2018-02-07T04:39:41Z
-description: "Good time at the Shabu Buffet"
+description: "Hot Pot Buffet in Chiang Mai"
 featured_image: "/images/shabu.jpg"
 tags: ["food"]
 title: "Shabu Buffet"
@@ -10,6 +10,8 @@ Today was the third time I've been to Shabu Buffet in Chiang Mai.
 The first time we found this place, it was 6 PM and there was a line of asian folk waiting to get in. Still, the turnaround was ok and we got in after about 20 minutes.
 This time we were early and I noticed half way through our meal that we had not spotted one farang present at this hot pot buffet for all three times we had been to Shabu.
 This must be a real hot spot for the locals, and indeed, it did seem to be the hip joint with mostly Thai youth present.
+
+{{< figure src="/images/hotpot.jpg" >}}
 
 The food was quite basic, and that is part of the charm. There was two styles of broth on the table for cooking your food items in.
 One broth was a Japanese soy sauce style broth. The other was a salty herb broth. Both were very tastfully made and gained awesome flavour as we cooked our meats and vegetables in the broth.
