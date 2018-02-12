@@ -1,5 +1,5 @@
 ---
-date: 2018-02-11T22:08:54Z
+date: 2018-02-10T22:08:54Z
 description: "Music Festival"
 featured_image: "/images/chiangdao/tipi.jpg"
 tags: ["bus", "shambhala"]
