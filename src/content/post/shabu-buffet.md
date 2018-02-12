@@ -1,8 +1,8 @@
 ---
-date: 2018-02-07T04:39:41
+date: 2018-02-07T04:39:41Z
 description: "Good time at the Shabu Buffet"
-featured_image: "/images/shabu-buffet.jpg"
-tags: [food]
+featured_image: "/images/shabu.jpg"
+tags: ["food"]
 title: "Shabu Buffet"
 ---
 
