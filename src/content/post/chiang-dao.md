@@ -1,9 +1,9 @@
 ---
-date: 2018-02-08T22:08:54Z
-description: "Shambhala In My Heart Festival"
+date: 2018-02-11T22:08:54Z
+description: "Music Festival"
 featured_image: "/images/chiangdao/tipi.jpg"
 tags: ["bus", "shambhala"]
-title: "Chiang Dao In My Heart"
+title: "Shambhala In My Heart"
 ---
 
 The bus station in Chiang Mai has departures every half hour going north. They start at 05:30 and end at 17:30. We bought tickets to Chiang Dao and it cost us 40 baht each.
