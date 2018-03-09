@@ -11,7 +11,6 @@ install:
 # Build the website
 script:
   - cd src
-  - chmod +x ../bin/hugo
   - ../bin/hugo
 
 # Deploy to GitHub pages
