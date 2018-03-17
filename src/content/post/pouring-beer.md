@@ -8,7 +8,7 @@ It was familiar for me to pour my beers the advertised way. You know, with the g
 
 I suppose if you like to feel bloated after each beer, that method will work wonders for you. I have been let on to a different sort of pour.
 
-#Pouring with vigor!
+##Pouring with vigor!
 
 
 As I begin to pour, I hold the glass at a slight angle. I let the beer hit the side of the glass with zest and at once let the glass sit square, as I continue, witnessing the dramatic foaming effect and relishing another instance where I get to practice timing the rise of the foam.
